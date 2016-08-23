@@ -55,7 +55,7 @@ Install the reshape2 package if it's not already installed. It can be done using
 After completing the above stpes, you can run the run_analysis.R script
 
 **Output** :
-Output of the R script will be a tidy data set named "tidydata.csv" in the same working directory
+Output of the R script will be a tidy data set named [tidydata.csv](https://github.com/mohammadshadan/Getting-And-Cleaning-Data/blob/master/tidydata.csv) in the same working directory
 
 ###HOW THE SCRIPT(run_analysis.R) WORKS
 
