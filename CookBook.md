@@ -2,7 +2,6 @@
 title: "CookBook"
 author: "MOHAMMAD SHADAN"
 date: "August 23, 2016"
-output: html_document
 ---
 ### OVERVIEW
 
@@ -54,6 +53,7 @@ For the purposes of this project, the files in the Inertial Signals folders are 
 `subject_train.txt`	: Vector of 7352 integers, containing subject ID of Volunteers related to each of the observations in X_train.txt.
   			                   
 `subject_test.txt` : Vector of 2947 integers, containing subject ID of Volunteers related to each of the observations in X_test.txt.
+
 
 
 
